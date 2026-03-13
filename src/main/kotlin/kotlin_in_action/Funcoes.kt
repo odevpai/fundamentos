@@ -7,7 +7,7 @@ val strings = listOf("one", "seven", "fifty-three")
 
 fun main() {
     println(set.javaClass)
-    println(list.javaClass)
+    println(listOfExtensionFunctions.javaClass)
     println(map.javaClass)
     println(strings.last())
 }
